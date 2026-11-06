@@ -1,0 +1,43 @@
+const questionTexts = [
+  ["Quyền tác giả phát sinh khi nào?", ["Khi tác phẩm được sáng tạo và thể hiện", "Khi tác giả đăng ký kinh doanh", "Khi tác phẩm bán được", "Khi tác giả công bố trên mạng"], "A"],
+  ["Đâu là ví dụ về tác phẩm được bảo hộ quyền tác giả?", ["Một ý tưởng chưa thể hiện", "Một bài giảng đã được ghi thành tài liệu", "Một sự kiện tự nhiên", "Một dữ kiện thuần túy"], "B"],
+  ["Mục đích chính của việc đăng ký quyền tác giả là gì?", ["Làm phát sinh quyền", "Tạo chứng cứ về chủ sở hữu và thời điểm", "Cho phép sao chép tự do", "Thay thế hợp đồng lao động"], "B"],
+  ["Phần mềm đóng hộp thường có đặc điểm nào?", ["Được phát triển riêng từ đầu", "Cung cấp sẵn cho nhiều người dùng", "Luôn miễn phí", "Không có mã thực thi"], "B"],
+  ["Phần mềm tùy chỉnh là trường hợp nào?", ["Phần mềm mua sẵn được sửa theo quy trình riêng", "Một ý tưởng trên giấy", "Một thiết bị phần cứng", "Một tên miền chưa đăng ký"], "A"],
+  ["Trình tự phát triển phần mềm đúng là gì?", ["Sơ đồ logic → mã nguồn → mã đối tượng → mã thực thi → vi mã", "Mã nguồn → sơ đồ logic → vi mã → mã đối tượng → mã thực thi", "Vi mã → mã nguồn → sơ đồ logic → mã đối tượng → mã thực thi", "Mã đối tượng → mã nguồn → sơ đồ logic → vi mã → mã thực thi"], "A"],
+  ["Mã nguồn được hiểu là gì?", ["Các chỉ dẫn ở dạng con người có thể đọc và chỉnh sửa", "Dữ liệu đã nén", "Tên của chương trình", "Mã ghi trong ROM"], "A"],
+  ["Giấy phép phần mềm xác định chủ yếu điều gì?", ["Quyền và giới hạn sử dụng, sao chép, sửa đổi", "Tốc độ CPU", "Nhãn hiệu máy tính", "Địa chỉ IP"], "A"],
+  ["Một ý tưởng kinh doanh chưa được thể hiện có được bảo hộ quyền tác giả không?", ["Có, tự động", "Không, quyền tác giả bảo hộ hình thức thể hiện", "Chỉ khi đăng ký", "Chỉ khi có lợi nhuận"], "B"],
+  ["Điều kiện cốt lõi để sáng chế được bảo hộ là gì?", ["Mới, có trình độ sáng tạo và khả năng áp dụng công nghiệp", "Có tên thương mại", "Được nhiều người biết", "Được đăng trên mạng xã hội"], "A"],
+  ["Bằng sáng chế khác bí mật thương mại ở điểm nào?", ["Sáng chế được công bố để đổi lấy độc quyền có thời hạn", "Sáng chế không cần đăng ký", "Bí mật thương mại luôn có thời hạn cố định", "Hai cơ chế hoàn toàn giống nhau"], "A"],
+  ["Doanh nghiệp muốn giữ kín thuật toán nội bộ nên ưu tiên biện pháp nào?", ["Thiết lập chế độ bảo mật và kiểm soát truy cập", "Đăng công khai toàn bộ mã", "Bỏ mọi thỏa thuận bảo mật", "Đăng ký tên miền"], "A"],
+  ["Thông tin nào có thể là bí mật thương mại?", ["Công thức và quy trình có giá trị, được giữ bí mật", "Thông tin đã công bố rộng rãi", "Tên đường phố", "Số điện thoại trên danh bạ công khai"], "A"],
+  ["Nhãn hiệu có chức năng chính nào?", ["Phân biệt hàng hóa, dịch vụ của các chủ thể", "Mô tả mọi ý tưởng", "Bảo hộ mọi kiểu dáng", "Thay thế quyền tác giả"], "A"],
+  ["Tên miền và nhãn hiệu có quan hệ thế nào?", ["Đăng ký tên miền không tự động tạo quyền đối với nhãn hiệu", "Tên miền luôn cao hơn nhãn hiệu", "Hai quyền luôn phát sinh cùng lúc", "Không thể có tranh chấp"], "A"],
+  ["Một logo dùng để phân biệt dịch vụ của công ty thuộc đối tượng nào?", ["Nhãn hiệu", "Bí mật thương mại", "Sáng chế", "Mã đối tượng"], "A"],
+  ["Hành vi nào có nguy cơ xâm phạm nhãn hiệu?", ["Dùng dấu hiệu tương tự gây nhầm lẫn cho hàng hóa tương tự", "Tạo sản phẩm mới không gắn dấu hiệu", "Đổi mật khẩu hệ thống", "Sao lưu dữ liệu nội bộ"], "A"],
+  ["Quyền sở hữu trí tuệ gồm những nhóm quyền cơ bản nào?", ["Quyền tác giả, quyền liên quan và quyền sở hữu công nghiệp", "Quyền dân sự và quyền hình sự בלבד", "Quyền nhân thân בלבד", "Quyền sử dụng đất בלבד"], "A"],
+  ["Nguyên tắc bán lần đầu thường liên quan đến điều gì?", ["Giới hạn quyền kiểm soát việc phân phối bản sao đã được bán hợp pháp", "Cho phép sao chép mọi phần mềm", "Hủy quyền tác giả", "Cấm bán sản phẩm"], "A"],
+  ["Sử dụng hợp lý cần được đánh giá dựa trên điều gì?", ["Mục đích, tính chất, phần sử dụng và ảnh hưởng đến thị trường", "Chỉ dựa vào việc có trả tiền hay không", "Chỉ dựa vào độ dài tác phẩm", "Chỉ dựa vào người sử dụng"], "A"],
+  ["Sao chép phần mềm thương mại rồi bán lại không phép là hành vi gì?", ["Có dấu hiệu xâm phạm quyền tài sản", "Luôn là sử dụng hợp lý", "Đăng ký sáng chế", "Bảo vệ bí mật thương mại"], "A"],
+  ["Biện pháp nào giúp chứng minh thời điểm tạo mã nguồn?", ["Lưu vết phiên bản và hồ sơ phát triển có kiểm soát", "Xóa lịch sử chỉnh sửa", "Chỉ nói miệng", "Đổi tên tệp"], "A"],
+  ["Trong hợp đồng thuê lập trình viên, điều khoản nào nên làm rõ?", ["Quyền sở hữu và phạm vi sử dụng sản phẩm tạo ra", "Màu nền màn hình", "Sở thích cá nhân", "Thời tiết khi ký"], "A"],
+  ["Mã nguồn mở không đồng nghĩa với điều gì?", ["Được tự do dùng mà không cần tuân thủ giấy phép", "Có thể xem mã theo điều kiện giấy phép", "Có nghĩa vụ ghi nhận tác giả trong một số giấy phép", "Có thể có hạn chế phân phối"], "A"],
+  ["Việc tích hợp thư viện mã nguồn mở vào sản phẩm cần làm gì?", ["Kiểm tra và tuân thủ giấy phép của thư viện", "Xóa tên tác giả", "Luôn đóng mã nguồn bất kể giấy phép", "Không cần lưu hồ sơ"], "A"],
+  ["Một ứng dụng sao chép giao diện và mã của đối thủ có thể phát sinh rủi ro nào?", ["Xâm phạm quyền tác giả và bí mật kinh doanh", "Chỉ là cạnh tranh giá", "Không có rủi ro nếu đổi tên", "Tự động được cấp bằng sáng chế"], "A"],
+  ["Bảo hộ phần mềm thường được xem xét theo cơ chế nào?", ["Quyền tác giả, hợp đồng và một số cơ chế sở hữu công nghiệp phù hợp", "Chỉ bằng sáng chế", "Chỉ bằng tên miền", "Không có cơ chế nào"], "A"],
+  ["Biện pháp tốt để bảo vệ bí mật thuật toán là gì?", ["Phân quyền tối thiểu, NDA và kiểm soát truy cập", "Đưa mã lên kho công khai", "Dùng chung một tài khoản", "Tắt nhật ký truy cập"], "A"],
+  ["Khi phát hiện website giả mạo nhãn hiệu, bước đầu phù hợp là gì?", ["Thu thập chứng cứ và gửi yêu cầu xử lý đến chủ thể có thẩm quyền", "Tự tấn công website", "Xóa dữ liệu của bên kia", "Bỏ qua mọi bằng chứng"], "A"],
+  ["Vì sao cần phân biệt quyền nhân thân và quyền tài sản?", ["Để xác định quyền nào được chuyển giao, cấp phép và cách bảo vệ", "Để bỏ qua tác giả", "Để mọi quyền đều vô thời hạn", "Để thay thế luật hợp đồng"], "A"],
+];
+
+const characters = ["W", "A", "B", "D", "E"];
+
+export const questions = questionTexts.map(([text, options, correct], index) => ({
+  id: index + 1,
+  text,
+  options,
+  answer: options[correct.charCodeAt(0) - 65],
+  correct,
+  hiddenCharacter: characters[Math.floor(Math.random() * characters.length)],
+}));
