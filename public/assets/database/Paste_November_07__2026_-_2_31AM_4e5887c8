@@ -1,0 +1,199 @@
+Câu 1: Tên miền chagee.vn hết hạn cuối năm 2025 và được Asset Việt Nam đăng ký lại ngày 4/1/2026, trong khi nhãn hiệu Chagee đã được bảo hộ tại Việt Nam. Việc đăng ký này phản ánh đặc điểm nào của cơ chế cấp tên miền .vn tại thời điểm đó?
+A. Việc cấp tên miền dựa trên thứ tự đăng ký, vì hồ sơ đăng ký không bị thẩm định về mối liên hệ với nhãn hiệu đang được bảo hộ.
+B. Việc cấp tên miền phụ thuộc vào thẩm định nhãn hiệu, vì Trung tâm Internet Việt Nam đối chiếu dữ liệu bảo hộ trước khi chấp nhận hồ sơ.
+C. Việc cấp tên miền mang tính tạm thời, vì sau khi cấp, cơ quan quản lý rà soát xung đột với nhãn hiệu và tự thu hồi tên miền nếu phát hiện trùng lặp trong thời hạn quy định.
+D. Việc cấp tên miền ưu tiên chủ nhãn hiệu, vì người đã được bảo hộ có quyền giữ chỗ khi tên miền của chủ cũ hết hạn sử dụng.
+
+Câu 2: Một sinh viên ngành Công nghệ thông tin thực hiện đồ án nghiên cứu về bảo mật phần mềm. Trong báo cáo, sinh viên sử dụng một phần nội dung từ tài liệu kỹ thuật có bản quyền của một công ty, đồng thời phân tích và đưa ra nhận xét riêng. Sinh viên cho rằng hành vi này chắc chắn hợp pháp vì chỉ phục vụ mục đích học tập và không thu lợi nhuận.
+Theo học thuyết sử dụng hợp lý, cách đánh giá nào sau đây chính xác nhất?
+A. Việc sử dụng được xem là hợp lý nếu không thu lợi nhuận và phục vụ học tập, không cần xem xét tỷ lệ nội dung được trích dẫn.
+B. Việc sử dụng được xem là hợp lý nếu sinh viên ghi rõ tên tác giả và nguồn tài liệu, không cần xét thêm mục đích hoặc bản chất trích dẫn.
+C. Việc sử dụng không được xem là hợp lý vì mọi hành vi trích dẫn tài liệu có bản quyền đều cần sự đồng ý trước của chủ sở hữu.
+D. Việc sử dụng cần được xem xét qua bốn yếu tố: mục đích, bản chất, tỷ lệ nội dung và ảnh hưởng thương mại của tác phẩm.
+
+
+Câu 3: Điểm khác biệt cơ bản nhất giữa quyền bảo hộ nhãn hiệu và quyền bảo hộ quyền tác giả là gì?
+A. Nhãn hiệu bảo vệ quyền độc quyền sao chép tác phẩm, còn quyền tác giả bảo vệ quyền sử dụng tên thương mại.
+B. Nhãn hiệu bảo vệ quyền độc quyền chế tạo sản phẩm, còn quyền tác giả bảo vệ quyền đăng ký sáng chế.
+C. Nhãn hiệu cho phép chủ sở hữu ngăn người khác sử dụng dấu hiệu gây nhầm lẫn, còn quyền tác giả bảo vệ quyền sao chép tác phẩm.
+D. Nhãn hiệu chỉ bảo vệ biểu tượng đồ họa, còn quyền tác giả chỉ bảo vệ các tác phẩm được công bố trực tuyến.
+Câu 4: Một startup Việt Nam phát triển thành công thuật toán nén dữ liệu có tính thương mại cao nhưng dự báo sẽ bị công nghệ mới thay thế sau khoảng 2 năm. Đứng trước lựa chọn giữa Bằng độc quyền sáng chế và Bí mật kinh doanh theo luật hiện hành, chiến lược nào là tối ưu cho startup?
+A. Nộp đơn xin Bằng độc quyền sáng chế, vì văn bằng sẽ tự động mở rộng phạm vi cấm đối thủ phát triển các phần mềm cải tiến phái sinh từ thuật toán gốc.
+B. Bảo hộ dưới dạng Bí mật kinh doanh, vì cơ chế này cấm đối thủ phân tích giải mã ngược hợp pháp từ sản phẩm phần mềm đã thương mại hóa trên thị trường.
+C. Nộp đơn xin Bằng độc quyền sáng chế, vì pháp luật cho phép giữ bí mật cấu trúc thuật toán trong thời hạn 20 năm độc quyền để tránh bị sao chép.
+D. Bảo hộ dưới dạng Bí mật kinh doanh, vì vừa tránh được nghĩa vụ bộc lộ giải pháp cho đối thủ học hỏi vừa tiết kiệm chi phí và thời gian khi sản phẩm nhanh cũ.
+
+Câu 5: Trình tự nào mô tả chính xác quá trình phát triển phần mềm từ khi hình thành ý tưởng đến khi được tích hợp trực tiếp vào phần cứng?
+A. Sơ đồ logic → Mã nguồn → Mã đối tượng → Mã thực thi trên bộ nhớ → Vi mã.
+B. Sơ đồ logic → Mã nguồn → Mã thực thi trên bộ nhớ → Mã đối tượng → Vi mã.
+C. Sơ đồ logic → Mã nguồn → Vi mã → Mã đối tượng → Mã thực thi trên bộ nhớ.
+D. Sơ đồ logic → Mã đối tượng → Mã nguồn → Mã thực thi trên bộ nhớ → Vi mã.
+
+Câu 6: Công ty TechVision phát triển phần mềm quản lý dữ liệu doanh nghiệp và sở hữu quyền đối với sản phẩm. Sau khi đưa ra thị trường quốc tế, công ty phát hiện một doanh nghiệp nước ngoài đang kinh doanh bản sao trái phép. Hoạt động phân phối được thực hiện thông qua nhiều đơn vị trung gian, có liên quan đến xuất nhập khẩu giữa các quốc gia. Ban lãnh đạo muốn xây dựng chiến lược bảo vệ quyền lâu dài thay vì chỉ xử lý một vụ vi phạm riêng lẻ.
+Theo nội dung về các chiến lược bảo hộ quyền sở hữu trí tuệ, phương án nào phù hợp nhất?
+A. Chủ động theo dõi các đối tượng nghi ngờ xâm phạm, phối hợp với doanh nghiệp phân phối để kiểm soát hàng hóa và đề nghị cơ quan chức năng trong nước xử lý các trường hợp phát hiện vi phạm.
+B. Đề nghị chính phủ đàm phán với quốc gia liên quan, thúc đẩy cơ chế giám sát chung và ký kết các thỏa thuận bảo vệ quyền sở hữu trí tuệ, đồng thời duy trì việc theo dõi thị trường nước ngoài.
+C. Chủ động theo dõi các đối tượng nghi ngờ xâm phạm, phối hợp với quan chức chính phủ kiểm tra hoạt động xuất nhập khẩu và yêu cầu chính phủ can thiệp khi có dấu hiệu vi phạm từ nước ngoài.
+D. Phối hợp với cơ quan thực thi pháp luật tại các quốc gia liên quan để kiểm tra đối tượng nghi vấn, tăng cường giám sát hoạt động phân phối và xử lý các trường hợp vi phạm được phát hiện.
+
+Câu 7: Một phần mềm được cung cấp dưới dạng bán quyền sử dụng: khách hàng trả phí để khai thác chức năng có sẵn, không được sửa đổi mã chương trình, và nhà cung cấp định kỳ phát hành bản cập nhật kèm hỗ trợ kỹ thuật. Theo nội dung phân loại sản phẩm và dịch vụ máy tính trong chương, nhận định nào phù hợp nhất?
+A. Phần mềm này là sản phẩm, vì chức năng đã được phát triển hoàn chỉnh và được cung cấp cho khách hàng sử dụng.
+B. Phần mềm này thuộc nhóm hỗn hợp, vì mọi phần mềm bán theo quyền sử dụng đều vừa là sản phẩm vừa là dịch vụ.
+C. Phần mềm này là dịch vụ, vì khách hàng trả phí để được quyền sử dụng mà không sở hữu mã chương trình.
+D. Phần mềm này cần được xét theo bản chất và cách thức cung cấp, vì nó có thể là sản phẩm, dịch vụ hoặc sự kết hợp của cả hai.
+
+Câu 8: Một tập đoàn FinTech sở hữu thuật toán mã hóa giao dịch mang lại lợi nhuận khổng lồ. Trong cuộc họp chiến lược IP, Trưởng phòng R&D hào hứng đề xuất: 'Chúng ta hãy xin Bằng sáng chế cho thuật toán, đồng thời nộp mã nguồn đăng ký Quyền tác giả để nhận bảo hộ kép!'. Dưới góc độ rủi ro pháp lý, đề xuất này tiềm ẩn cạm bẫy nào?
+A. Đề xuất này làm lộ bí mật kinh doanh nhưng đảm bảo 100% thu được bằng sáng chế vì thuật toán mã hóa được coi là một quy trình công nghệ hoàn chỉnh.
+B. Đề xuất này khiến thuật toán tự động rơi vào lĩnh vực công cộng sau mốc thời gian 10 năm do việc công khai mã nguồn khi đăng ký quyền tác giả.
+C. Đề xuất này làm mất Bí mật kinh doanh do nghĩa vụ bộc lộ thông tin, trong khi thuật toán thuần túy lại bị loại trừ không được bảo hộ sáng chế.
+D. Đề xuất này khiến Bằng độc quyền sáng chế của các thiết bị phần cứng chạy thuật toán bị vô hiệu hóa do vi phạm quy định cấm kết hợp văn bằng bảo hộ.
+
+Câu 9: Một doanh nghiệp hoạt động trong lĩnh vực giáo dục muốn bảo hộ biểu tượng riêng được sử dụng trên các khóa học trực tuyến do mình cung cấp. Một hiệp hội giáo dục cũng xây dựng một hệ thống nhận diện chung, cho phép các cơ sở đào tạo đủ điều kiện sử dụng sau khi được đánh giá theo bộ tiêu chí của hiệp hội.
+Cách phân loại nào sau đây phù hợp nhất với hai trường hợp trên?
+A. Trường hợp thứ nhất sử dụng nhãn hiệu tập thể, trường hợp thứ hai sử dụng dấu chứng nhận.
+B. Trường hợp thứ nhất sử dụng nhãn hiệu dịch vụ, trường hợp thứ hai sử dụng dấu chứng nhận.
+C. Trường hợp thứ nhất sử dụng dấu chứng nhận, trường hợp thứ hai sử dụng nhãn hiệu tập thể.
+D. Trường hợp thứ nhất sử dụng nhãn hiệu dịch vụ, trường hợp thứ hai sử dụng nhãn hiệu tập thể.
+
+Câu 10: Lập trình viên A nghỉ việc tại Công ty X và sang làm cho Công ty Y. A không mang theo tài liệu vật lý nhưng dùng ""bí quyết và kinh nghiệm"" để viết lại phần mềm tương tự. Nhận định nào đúng?
+A. Công ty cũ gặp rào cản lớn do pháp luật rất khó áp dụng đối với tri thức vô hình trong đầu nhân viên và hợp đồng bảo mật rất khó thực thi trên thực tế.
+B. Công ty cũ không thể khởi kiện vì quy định về Bí mật kinh doanh chỉ bảo hộ tài liệu lưu trữ dưới dạng vật lý chứ không bảo hộ lưu đồ tư duy hay thuật toán.
+C. Công ty cũ sẽ thua kiện vì mọi bí quyết kỹ thuật tạo ra trong thời gian làm việc mặc nhiên thuộc quyền sở hữu cá nhân của người lao động.
+D. Công ty cũ sẽ bị Tòa án bác đơn vì toàn bộ bí quyết tích lũy trong đầu người lao động tự động chuyển thành tài sản thuộc lĩnh vực công cộng khi nghỉ việc.
+
+Câu 11: Một nhóm sinh viên phát triển nền tảng tuyển dụng CNTT mang tên DevLink, đăng ký tên miền devlink.vn vào tháng 3/2026 và tự thiết kế logo riêng. Đến tháng 8/2026, nhóm nhận được yêu cầu chấm dứt sử dụng tên DevLink từ một doanh nghiệp đã sử dụng tên này cho dịch vụ tuyển dụng từ năm 2024 và đã đăng ký nhãn hiệu trước đó.
+Nhóm sinh viên cho rằng tên miền và logo của mình được tạo độc lập nên không ảnh hưởng đến quyền của doanh nghiệp kia.
+Nhận định nào dưới đây có cơ sở lập luận phù hợp nhất?
+A. Nhóm cần xem xét khả năng gây nhầm lẫn và phạm vi bảo hộ của nhãn hiệu có trước; việc đăng ký tên miền trước khi doanh nghiệp gửi thông báo giúp xác lập quyền ưu tiên sử dụng tên gọi.
+B. Nhóm cần xem xét khả năng gây nhầm lẫn và phạm vi bảo hộ của nhãn hiệu có trước; việc sử dụng tên gọi trên website thay vì logo giúp giới hạn tranh chấp trong phạm vi quyền tác giả.
+C. Nhóm cần xem xét khả năng gây nhầm lẫn và phạm vi bảo hộ của nhãn hiệu có trước; việc tự thiết kế logo riêng giúp xác lập quyền sử dụng tên gọi trong cùng lĩnh vực dịch vụ.
+D. Nhóm cần xem xét khả năng gây nhầm lẫn và phạm vi bảo hộ của nhãn hiệu có trước; việc đăng ký tên miền trước khi nhận thông báo không mặc nhiên xác lập quyền sử dụng nhãn hiệu.
+
+Câu 12: Một doanh nghiệp mua một bộ tài liệu đào tạo lập trình có bản quyền từ nhà xuất bản. Sau khi mua, doanh nghiệp muốn chuyển quyền sở hữu bộ tài liệu cho một đơn vị khác. Tuy nhiên, hợp đồng ban đầu quy định tài liệu được cung cấp theo giấy phép sử dụng có thời hạn và không cho phép chuyển giao quyền sử dụng cho bên thứ ba.
+Dựa trên học thuyết bán lần đầu, nhận định nào sau đây phù hợp nhất?
+A. Quyền phân phối bản sao có thể được thực hiện theo học thuyết bán lần đầu, nhưng việc sử dụng tiếp theo vẫn có thể chịu sự kiểm soát của hợp đồng thuê hoặc giấy phép sử dụng.
+B. Doanh nghiệp không được chuyển giao tài liệu vì học thuyết bán lần đầu không cho phép chủ sở hữu phân phối bản sao thông qua hình thức bán hoặc chuyển quyền sở hữu cho người khác.
+C. Doanh nghiệp được quyền chuyển giao tài liệu nếu không thu lợi nhuận vì hoạt động chuyển giao không nhằm mục đích thương mại sẽ không chịu sự điều chỉnh của quyền sở hữu trí tuệ.
+D. Doanh nghiệp có quyền chuyển giao tài liệu trong mọi trường hợp vì việc thanh toán tiền mua đã chấm dứt toàn bộ quyền kiểm soát của chủ sở hữu bản quyền đối với tài liệu.
+
+Câu 13: Theo giáo trình, khi một nhà phát triển công bố một module phần mềm độc lập có bản quyền, một thông báo quyền tác giả hợp lệ thông thường bắt buộc phải bao gồm đầy đủ 4 yếu tố nào sau đây?
+A. Ký hiệu ©, liên kết đến kho lưu trữ mã nguồn, giấy phép mã nguồn mở kèm theo và ngày biên dịch.
+B. Biểu tượng nhãn hiệu ™, con dấu pháp lý của cơ quan cấp phép, địa chỉ máy chủ.
+C. Ký hiệu ©, từ ""copyright"", năm cấp quyền/công bố và tên của chủ sở hữu bản quyền.
+D. Tên gọi phần mềm, phiên bản phát hành, chữ ký số của tác giả và mã hash SHA-256 của tập tin.
+
+Câu 14: Công ty Việt Nam phát triển phần mềm phân tích dữ liệu và bảo vệ mã nguồn cùng tài liệu kỹ thuật bằng các biện pháp bảo mật nội bộ.
+Một nhân viên chuyển trái phép mã nguồn và tài liệu cho doanh nghiệp B tại quốc gia X. Doanh nghiệp B chỉnh sửa giao diện, thay đổi tên sản phẩm rồi phân phối phần mềm tại quốc gia X và Y.
+Công ty Việt Nam muốn xử lý hành vi xâm phạm đối với cả mã nguồn và thông tin kỹ thuật bí mật.
+Phương án nào phù hợp nhất?
+A. Dựa vào quyền tác giả đối với mã nguồn tại Việt Nam để yêu cầu xử lý tại X và Y, đồng thời áp dụng quy định về bí mật kinh doanh của Việt Nam.
+B. Xác định quyền tác giả và bí mật kinh doanh bị xâm phạm, đồng thời đánh giá điều kiện bảo hộ và cơ chế thực thi tại từng quốc gia liên quan.
+C. Xác định quyền tác giả và bí mật kinh doanh bị xâm phạm, đồng thời áp dụng thống nhất pháp luật Việt Nam cho các hành vi tại X và Y.
+D. Dựa vào quyền tác giả đối với mã nguồn tại X và Y, đồng thời chỉ xử lý hành vi tiết lộ bí mật kinh doanh tại Việt Nam.
+
+Câu 15: Một công ty phần mềm phát hiện một doanh nghiệp khác đang kinh doanh chương trình có nhiều điểm tương đồng với sản phẩm của mình. Công ty quyết định khởi kiện vì cho rằng đối thủ đã sao chép phần mềm. Tuy nhiên, phía bị kiện cho rằng chương trình của họ được phát triển độc lập và có một số nội dung đã được chỉnh sửa.
+Theo nội dung về xâm phạm bản quyền, nhóm căn cứ nào sau đây cần được tòa xem xét để đánh giá vụ việc?
+A. Việc hai phần mềm có chức năng tương tự hay không, mức giá bán sản phẩm và tổng số lượng khách hàng sử dụng mỗi chương trình.
+B. Việc bên bị kiện có tiếp cận tác phẩm hay không, tính hợp lệ của bản quyền bên khởi kiện và mức độ khác biệt giữa tác phẩm tranh chấp với bản gốc.
+C. Số lượng nhân viên tham gia phát triển phần mềm, chi phí nghiên cứu và tổng thời gian hoàn thành chương trình của hai doanh nghiệp.
+D. Mức độ phổ biến của phần mềm trên thị trường, doanh thu của hai doanh nghiệp và thời điểm sản phẩm được đưa ra kinh doanh trên thị trường.
+
+Câu 16: Theo khoản 6 Điều 93 Luật Sở hữu trí tuệ Việt Nam, thời hạn hiệu lực của Giấy chứng nhận đăng ký nhãn hiệu được quy định như thế nào?
+A. Có hiệu lực từ ngày cấp đến hết 10 năm kể từ ngày nộp đơn và được gia hạn nhiều lần liên tiếp, mỗi lần 10 năm.
+B. Có hiệu lực từ ngày nộp đơn đến hết 10 năm kể từ ngày cấp và được gia hạn nhiều lần liên tiếp, mỗi lần 10 năm.
+C. Có hiệu lực từ ngày cấp đến hết 10 năm kể từ ngày cấp và được gia hạn nhiều lần liên tiếp, mỗi lần 10 năm.
+D. Có hiệu lực từ ngày cấp đến hết 10 năm kể từ ngày nộp đơn và chỉ được gia hạn một lần, thêm 10 năm.
+
+Câu 17: Một nhà sản xuất thiết bị công nghiệp sử dụng chương trình điều khiển đã qua biên dịch và liên kết. Trong quá trình sản xuất, các chỉ dẫn cấp thấp được ghi trực tiếp vào bộ nhớ ROM của thiết bị. Sau khi hoàn thiện, các chỉ dẫn này rất khó thay đổi. Thành phần được mô tả phù hợp nhất với giai đoạn nào trong năm giai đoạn phát triển phần mềm?
+A. Mã thực thi trên bộ nhớ, vì chương trình đã được liên kết và nạp vào bộ nhớ để sẵn sàng chạy.
+B. Mã đối tượng, vì chương trình đã được biên dịch từ mã nguồn sang dạng nhị phân mà máy tính hiểu được.
+C. Sơ đồ logic, vì đây là giai đoạn xác định các bước xử lý của hệ thống và kết quả được cố định vào thiết bị.
+D. Vi mã, vì đây là lớp chỉ dẫn nằm sâu nhất, quy định cách bộ xử lý và phần cứng thực hiện từng lệnh.
+
+Câu 18: Một công ty tài chính tại Việt Nam mua 01 bản quyền sử dụng phần mềm bảo mật thương mại. Bộ phận IT của công ty đã tiến hành hai hành vi: (1) Tạo 01 bản sao dự phòng của chương trình máy tính và lưu trữ nội bộ trên ổ đĩa mạng an toàn để thay thế nếu bản chính bị hỏng; (2) Tự ý cài đặt tiếp tệp thực thi từ bản quyền này lên toàn bộ 50 máy tính của nhân viên trong công ty để dùng song song mà không trả thêm phí bản quyền. Căn cứ theo quy định về ngoại lệ quyền tác giả trong Luật Sở hữu trí tuệ Việt Nam, hành vi của công ty tài chính này được đánh giá như thế nào? 
+A. Cả hai hành vi đều hợp pháp theo học thuyết cạn quyền vì công ty đã thanh toán đủ tiền mua gói phần mềm nên được toàn quyền triển khai trên hạ tầng thiết bị.
+B. Hành vi tạo bản sao dự phòng là hành vi hợp pháp, nhưng việc cài đặt sử dụng trên 50 máy tính là hành vi xâm phạm quyền tài sản của chủ sở hữu quyền tác giả. 
+C. Việc cài đặt trên 50 máy tính là hợp pháp theo học thuyết sử dụng hợp lý vì chỉ dùng nội bộ, còn việc sao chép lưu trữ dự phòng mới là hành vi nhân bản lậu.
+D. Cả hai hành vi đều hợp pháp vì quyền tác giả chỉ bảo hộ mã nguồn văn bản, còn tệp thực thi cài đặt và bản sao lưu máy tính không thuộc phạm vi độc quyền tài sản. 
+
+Câu 19: Công ty SoftVN sở hữu quyền tác giả đối với mã nguồn của một ứng dụng. Doanh nghiệp B tại quốc gia X sao chép phần lớn mã nguồn, đổi tên ứng dụng và cung cấp cho khách hàng tại X và Y. SoftVN chưa đăng ký nhãn hiệu tại quốc gia X nhưng có tài liệu chứng minh quá trình sáng tạo và quyền sở hữu mã nguồn. Phương án nào phù hợp nhất để bảo vệ quyền lợi của SoftVN?
+A. Đăng ký nhãn hiệu tại X để làm căn cứ chính xử lý hành vi sao chép mã nguồn, sau đó yêu cầu nền tảng phân phối gỡ bỏ ứng dụng.
+B. Thu thập chứng cứ sao chép mã nguồn, xác định quyền tác giả được bảo hộ và áp dụng thủ tục thực thi phù hợp tại X và Y.
+C. Đăng ký quyền tác giả tại X trước khi xử lý hành vi sao chép mã nguồn, sau đó sử dụng các cơ chế thực thi tại X và Y.
+D. Khởi kiện tại Việt Nam dựa trên quyền sở hữu mã nguồn, sau đó sử dụng trực tiếp bản án để yêu cầu thi hành tại X và Y.
+
+Câu 20: Một nhân viên freelance nhận tiền công bằng séc giấy gửi qua bưu điện và để biên lai, sao kê trong thùng rác chung của văn phòng. Gần đây, thư của anh bị thất lạc, rồi ngân hàng thông báo có đơn mở thẻ tín dụng mang tên anh được gửi về một địa chỉ lạ.
+Thủ đoạn nào nhiều khả năng đã xảy ra, và phương án nào giúp giảm thiểu nguy cơ tái diễn hiệu quả nhất?
+A. Lấy cắp thông tin vật lý; anh nên hủy các biên lai, sao kê chứa thông tin cá nhân, đồng thời đăng ký dịch vụ chuyển tiếp thư và thường xuyên kiểm tra thư gửi đến.
+B. Lấy cắp thông tin vật lý; anh nên trình báo việc thất lạc thư, liên hệ ngân hàng để ngăn chặn các giao dịch đáng ngờ và theo dõi những yêu cầu mở tín dụng bất thường.
+C. Lấy cắp thông tin vật lý; anh nên hủy tài liệu chứa thông tin cá nhân bằng cách cắt vụn, đồng thời chuyển sang nhận tiền công qua chuyển khoản thay cho séc giấy gửi qua bưu điện.
+D. Lấy cắp thông tin vật lý; anh nên kiểm tra báo cáo tín dụng tại cả ba tổ chức tín dụng, đồng thời yêu cầu ngân hàng cảnh báo khi xuất hiện hồ sơ tín dụng mới.
+
+Câu 21: Một công ty công nghệ phát triển một phần mềm quản lý dữ liệu với mã nguồn do đội ngũ lập trình viên tự viết. Một doanh nghiệp khác cũng phát triển phần mềm có chức năng tương tự nhưng sử dụng mã nguồn và cách triển khai riêng.
+Theo nội dung về quyền sở hữu trí tuệ, nhận định nào sau đây chính xác nhất?
+A. Công ty chỉ được bảo hộ quyền sở hữu trí tuệ khi đã đăng ký đồng thời bản quyền và sáng chế cho toàn bộ chương trình máy tính.
+B. Công ty phát triển trước có quyền độc quyền đối với chức năng và ý tưởng của phần mềm, nên doanh nghiệp khác không được tạo ra sản phẩm có chức năng tương tự.
+C. Doanh nghiệp khác được quyền sao chép mã nguồn nếu thay đổi giao diện phần mềm và không sử dụng tên thương mại của công ty ban đầu.
+D. Công ty có thể được bảo hộ đối với cách thể hiện cụ thể của phần mềm, nhưng không mặc nhiên có quyền độc quyền đối với ý tưởng hoặc thuật toán được sử dụng.
+
+Câu 22: Công ty TechNova phát triển phần mềm quản lý nhân sự mang tên WorkPlus, có biểu tượng riêng, mã nguồn do đội ngũ lập trình tự xây dựng và thuật toán phân công nhân sự. Công ty muốn xác định các cơ chế sở hữu trí tuệ phù hợp để bảo vệ những thành phần này.
+Phương án phân loại nào phù hợp nhất?
+A. Quyền tác giả bảo vệ hình thức thể hiện của mã nguồn; nhãn hiệu bảo vệ tên gọi và biểu tượng nhận diện sản phẩm.
+B. Quyền tác giả bảo vệ mã nguồn và thuật toán; nhãn hiệu bảo vệ tên gọi và biểu tượng dùng để phân biệt sản phẩm.
+C. Quyền tác giả bảo vệ mã nguồn; nhãn hiệu bảo vệ tên gọi, biểu tượng và giao diện chức năng của sản phẩm.
+D. Quyền tác giả bảo vệ mã nguồn và giao diện đồ họa; nhãn hiệu bảo vệ tên gọi cùng quy trình vận hành sản phẩm.
+
+Câu 23: Theo Luật Sở hữu trí tuệ Việt Nam hiện hành (Luật 2005, sửa đổi bổ sung 2022), về mặt pháp lý cơ chế Bằng độc quyền sáng chế và Bí mật kinh doanh có sự khác biệt cơ bản nào về thời hạn bảo hộ và nghĩa vụ đối với thông tin?
+A. Sáng chế được bảo hộ 20 năm tính từ ngày nộp đơn kèm nghĩa vụ bộc lộ đầy đủ giải pháp; Bí mật kinh doanh được bảo hộ vô thời hạn kể cả khi thông tin đã bị giải mã ngược hợp pháp.
+B. Sáng chế được bảo hộ 20 năm tính từ ngày cấp văn bằng kèm nghĩa vụ bộc lộ mã nguồn; Bí mật kinh doanh được bảo hộ vô thời hạn và ngăn cấm tuyệt đối mọi hành vi tự nghiên cứu độc lập.
+C. Sáng chế được bảo hộ 20 năm tính từ ngày nộp đơn kèm nghĩa vụ bộc lộ đầy đủ giải pháp; Bí mật kinh doanh được bảo hộ vô thời hạn chừng nào duy trì được tính bảo mật nội bộ.
+D. Sáng chế được bảo hộ 20 năm tính từ ngày cấp văn bằng kèm nghĩa vụ bộc lộ mã nguồn; Bí mật kinh doanh được bảo hộ 20 năm kể từ ngày xác lập và có thể gia hạn liên tục.
+
+Câu 24: Kỹ sư phần mềm Hoàng làm việc theo hợp đồng lao động tại Công ty Công nghệ K, được giao nhiệm vụ viết toàn bộ mã nguồn một hệ thống microservices xử lý giao dịch. Sau khi bàn giao bản dựng thành công và chấm dứt hợp đồng lao động, Hoàng tiến hành hai hoạt động: (1) Trích dẫn một đoạn logic thuật toán do chính mình viết vào bài báo khoa học cá nhân và ghi rõ mình là người lập trình; (2) Trích xuất nguyên vẹn module microservices nói trên đem bán dạng thư viện đóng gói cho một công ty phần mềm khác. Căn cứ theo quy định của Luật Sở hữu trí tuệ Việt Nam hiện hành, nhận định pháp lý nào sau đây là chính xác?
+A. Việc bán module là hợp pháp vì Công ty K chưa đăng ký bản quyền tại Cục Bản quyền tác giả, nhưng bài báo vi phạm vì công khai cấu trúc mã nội bộ.
+B. Cả hai hành vi của Hoàng đều hợp pháp nếu thời hạn cam kết không cạnh tranh và bảo mật thông tin trong hợp đồng lao động với Công ty K đã kết thúc.
+C. Việc bán module là hợp pháp nếu Hoàng đã viết lại một số hàm xử lý, còn bài báo vi phạm vì quyền công bố tác phẩm vốn thuộc riêng về Công ty K.
+D. Hành vi ghi nhận tên tác giả trong bài báo khoa học là hợp pháp, nhưng việc bán module mã nguồn cho bên thứ ba là hành vi xâm phạm quyền tác giả.
+
+
+Câu 25: Công ty Alpha mua giấy phép sử dụng phần mềm kế toán cho một thiết bị. Hợp đồng cho phép tạo một bản sao lưu dự phòng nhưng không cho phép cài đặt trên thiết bị khác nếu chưa được nhà cung cấp chấp thuận.
+Bộ phận IT tạo một bản sao lưu trên máy chủ và cài đặt phần mềm lên ba máy tính khác để nhân viên sử dụng đồng thời.
+Nhận định nào phù hợp nhất?
+A. Việc sao lưu và cài đặt đều vi phạm vì quyền tạo bản sao phần mềm chỉ thuộc về nhà cung cấp ban đầu.
+B. Việc sao lưu được phép theo hợp đồng, nhưng việc cài đặt thêm trên ba máy vượt quá phạm vi giấy phép đã cấp.
+C. Việc sao lưu và cài đặt đều được phép vì các bản sao chỉ được sử dụng trong hoạt động nội bộ của công ty.
+D. Việc sao lưu được phép theo hợp đồng, còn việc cài đặt thêm được phép nếu không phát sinh doanh thu từ phần mềm.
+
+Câu 26: Một doanh nghiệp mua phần mềm quản lý bán hàng được phát triển sẵn. Nhà cung cấp cho phép doanh nghiệp bổ sung mô-đun quản lý kho và điều chỉnh một số chức năng theo quy trình riêng. Theo phân loại của Jim Prince, phần mềm này thuộc nhóm nào?
+A. Phần mềm đóng hộp, vì doanh nghiệp chỉ được bổ sung mô-đun chứ không sở hữu mã nguồn của phần mềm. 
+B. Phần mềm đặt riêng, vì doanh nghiệp điều chỉnh chức năng theo quy trình riêng của mình.
+C. Phần mềm đóng hộp, vì được phát triển sẵn để bán cho nhiều khách hàng; việc điều chỉnh của doanh nghiệp chỉ là thiết lập thêm.
+D. Phần mềm tùy chỉnh (hỗn hợp), vì phần mềm được mua sẵn rồi được sửa đổi và bổ sung để phù hợp với doanh nghiệp.
+
+Câu 27: Tại cuộc họp HĐQT một doanh nghiệp công nghệ, Giám đốc R&D đề xuất nộp đơn xin cấp Bằng độc quyền sáng chế cho quy trình xử lý dữ liệu lõi, đồng thời yêu cầu duy trì quy trình đó dưới dạng Bí mật kinh doanh. Tại sao cố vấn pháp lý khẳng định hai cơ chế này loại trừ lẫn nhau trên cùng một giải pháp kỹ thuật?
+A. Vì nghĩa vụ bộc lộ công khai và đầy đủ bản chất giải pháp kỹ thuật khi nộp đơn sáng chế mâu thuẫn trực tiếp và triệt tiêu điều kiện giữ kín của bí mật kinh doanh.
+B. Vì toàn bộ giải pháp kỹ thuật sẽ lập tức rơi vào lĩnh vực công cộng cho xã hội tự do sử dụng ngay tại thời điểm doanh nghiệp nộp đơn xin cấp bằng sáng chế.
+C. Vì quy định sở hữu trí tuệ Việt Nam ngăn cấm tuyệt đối việc áp dụng bảo hộ kết hợp nhiều hình thức tài sản trí tuệ khác nhau cho các thành phần của cùng một sản phẩm.
+D. Vì việc nộp đơn xin cấp bằng sáng chế sẽ làm chấm dứt tính mới tuyệt đối của bí mật kinh doanh ngay tại thời điểm Cục Sở hữu trí tuệ tiếp nhận hồ sơ.
+
+
+Câu 28: Một kỹ sư phần mềm tạo ra một công cụ quản lý dự án dạng web và công bố cấu trúc cơ sở dữ liệu gồm danh mục lịch làm việc, bảng chấm công chuẩn và thuật toán sắp xếp công việc tự động. Theo quy định về phạm vi bảo hộ quyền tác giả trong giáo trình, đối tượng nào dưới đây KHÔNG thuộc phạm vi được bảo hộ bản quyền?
+A. Sổ tay hướng dẫn sử dụng và tài liệu đặc tả chức năng phần mềm kèm theo.
+B. Đoạn mã nguồn giao diện (CSS/HTML) do chính kỹ sư này tự tay thiết kế và viết ra.
+C. Chuỗi mã đối tượng (chuỗi nhị phân 0 và 1) đã được biên dịch từ mã nguồn gốc.
+D. Biểu mẫu lịch công tác đơn thuần và giải thuật sắp xếp công việc dùng trong phần mềm.
+
+Câu 29: Theo giáo trình, khi một lập trình viên sáng tạo ra một sản phẩm phần mềm máy tính, luật quyền tác giả (Copyright) công nhận bảo hộ đối với yếu tố nào và dứt khoát loại trừ không bảo hộ đối tượng nào sau đây?
+A. Bảo hộ tính năng nghiệp vụ và toàn bộ dữ liệu thực tế đầu vào; loại trừ không bảo hộ mã thực thi đã biên dịch trên bộ nhớ máy tính.
+B. Bảo hộ cách thức biểu đạt cụ thể của mã nguồn và mã đối tượng; loại trừ không bảo hộ ý tưởng giải thuật và sơ đồ logic trừu tượng.
+
+C. Bảo hộ quy trình kỹ thuật vận hành và cấu trúc giải thuật độc quyền; loại trừ không bảo hộ các tài liệu hướng dẫn kỹ thuật dạng văn bản.
+D. Bảo hộ giải pháp logic thực thi và các biểu mẫu tiện ích chuẩn hóa; loại trừ không bảo hộ chuỗi nhị phân khi chưa nạp vào phần cứng.
+Câu 30: Công ty DataSecure phát triển một phương pháp xử lý dữ liệu có khả năng đáp ứng các điều kiện bảo hộ sáng chế. Hiện tại, phương pháp này chỉ được nhân viên có thẩm quyền tiếp cận và đang được bảo vệ như bí mật kinh doanh.
+Ban lãnh đạo cân nhắc nộp đơn đăng ký sáng chế nhưng vẫn muốn duy trì bảo hộ bí mật kinh doanh đối với chính thông tin kỹ thuật được công bố trong đơn.
+Nhận định nào phù hợp nhất?
+A. Công ty có thể duy trì bí mật kinh doanh đối với những phần đã công bố nếu tiếp tục áp dụng thỏa thuận bảo mật với nhân viên.
+B. Công ty có thể duy trì bí mật kinh doanh đối với những phần đã công bố nếu bằng sáng chế chưa được cấp hoặc chưa có hiệu lực.
+C. Công ty có thể giữ bí mật kinh doanh cho thông tin chưa công khai và phần kỹ thuật đã công bố sẽ không đáp ứng điều kiện bí mật.
+D.Công ty có thể duy trì những bí mật kinh doanh đối với toàn bộ những phương pháp vì công bố sáng chế chỉ phục vụ cơ quan thẩm định.
+

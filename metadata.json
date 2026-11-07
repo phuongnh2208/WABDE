@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Quiz Arena W-A-B-D-E",
+  "description": "Trò chơi tương tác Quiz Arena 30 câu hỏi theo luật W-A-B-D-E phong cách Anime 2D Pastel với bảng xếp hạng tự động thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
